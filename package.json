@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^12.1.8",
     "apexcharts": "^3.22.0",
     "axios": "^0.20.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "classnames": "^2.2.6",
     "http-proxy-middleware": "^1.0.6",
     "query-string": "^6.13.6",
